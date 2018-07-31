@@ -9,7 +9,7 @@ name = "Joe"
 def greeting(name)
    puts "Hello, #{name}"
 end
-
+binding.pry
 greeting(name)
 1. Assign a local variable.
 
