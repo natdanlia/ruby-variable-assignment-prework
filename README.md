@@ -2,6 +2,15 @@
 
 ## Objectives
 
+
+
+name = "Joe"
+ 
+def greeting(name)
+   puts "Hello, #{name}"
+end
+
+greeting(name)
 1. Assign a local variable.
 
 ## Instructions
