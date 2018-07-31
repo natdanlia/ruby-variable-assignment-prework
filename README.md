@@ -1,3 +1,4 @@
+require 'pry'
 # Variable Assignment
 
 ## Objectives
